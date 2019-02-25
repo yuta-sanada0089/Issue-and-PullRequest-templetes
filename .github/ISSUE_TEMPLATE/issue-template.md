@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: 不具合のテンプレート
+name: issue template
+about: Issueのテンプレート
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
